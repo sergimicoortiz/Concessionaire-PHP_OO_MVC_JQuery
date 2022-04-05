@@ -1,1 +1,1 @@
-This is the 2nd project of my first year in DAW.
+This is my second project of my first year studying DAW.
